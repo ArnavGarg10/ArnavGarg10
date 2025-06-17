@@ -7,4 +7,4 @@
 
 > *“The people who are crazy enough to think they can change the world, are the ones who do.”*
 
-📫 Connect with me: [Devpost](https://devpost.com/gargarnav10)
+📫 Connect with me: [Devpost](https://devpost.com/gargarnav10) | [Portfolio](https://arnavg.vercel.app)
