@@ -1,4 +1,4 @@
-# I'm Arnav Garg 👋
+# I'm Arnav 👋
 
 💻 Passionate about **AI/ML**, **science**, and **robotics**  
 🛠️ Building projects that make the world a better place  
