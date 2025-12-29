@@ -1,13 +1,13 @@
 # I'm Arnav 👋
 
-💻 Passionate about **AI/ML**, **science**, and **robotics**  
-🛠️ Building projects that make the world a better place  
-📚 Interested in **engineering**, **computers**, and **creative problem-solving**  
-💡 Continuously exploring new things and pushing my limits  
+   Passionate about **AI/ML**, **science**, and **robotics**  
+   Building projects that make the world a better place  
+   Interested in **engineering**, **computers**, and **creative problem-solving**  
+   Continuously exploring new things and pushing my limits  
 
 > *“The people who are crazy enough to think they can change the world, are the ones who do.”*
 
-📫 Connect with me: [Devpost](https://devpost.com/gargarnav10)
+Check out my Devpost!: [Devpost](https://devpost.com/gargarnav10)
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gargarnav10@gmail.com) 
 
